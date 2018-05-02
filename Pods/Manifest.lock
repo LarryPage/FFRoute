@@ -1,0 +1,14 @@
+PODS:
+  - FFRoute (0.0.1)
+
+DEPENDENCIES:
+  - FFRoute (from `FFRoute`)
+
+EXTERNAL SOURCES:
+  FFRoute:
+    :path: FFRoute
+
+SPEC CHECKSUMS:
+  FFRoute: 07cbbabc597396693930c72988f067be6dbee492
+
+COCOAPODS: 0.39.0

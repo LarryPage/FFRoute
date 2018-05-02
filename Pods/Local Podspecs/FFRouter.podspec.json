@@ -1,0 +1,18 @@
+{
+  "name": "FFRouter",
+  "version": "0.0.1",
+  "summary": "A short description of FFRouter.",
+  "description": "",
+  "homepage": "http://EXAMPLE/FFRouter",
+  "license": "MIT (example)",
+  "authors": {
+    "lufengping1": "lufengping1@wanda.cn"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "source_files": [
+    "FFRouter",
+    "FFRouter/**/*.{h,m}"
+  ]
+}
